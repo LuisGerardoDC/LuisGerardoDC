@@ -1,10 +1,4 @@
-### Hi I'm Luis Pintor.
-🔭 I'm going to get my bachelor's degree in computer science | I'm starting Platzi Master 🚀💚 | I love computer sience and every thing about tech 💻
-- 💬 Ask me about the imaginary land of Tlaxcala.
-- 📫 How to reach me: https://www.linkedin.com/in/luispintor/
-- ⚡ Fun fact: the US army has a protocol for zombie apocalypse
-- ⚡ Fun fact (about me): I like to watch anime📚 and play videogames🎮; I love superhero stories 📈; I builded and fixed (wen needed) my own computer💻 and I wear glasses. 
-
+My personality is characterized by an innate curiosity that drives me to constantly explore. I greatly enjoy working in a team, as I strongly believe in collaboration and sharing ideas to achieve outstanding results. My experience is focused on programming in various languages, such as Golang, Javascript and Python, which I have mastered throughout my career.
 
 
 <!--
