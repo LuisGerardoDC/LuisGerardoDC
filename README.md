@@ -1,4 +1,4 @@
-My personality is characterized by an innate curiosity that drives me to constantly explore. I greatly enjoy working in a team, as I strongly believe in collaboration and sharing ideas to achieve outstanding results. My experience is focused on programming in various languages, such as Golang, Javascript and Python, which I have mastered throughout my career.
+My curiosity that drives me to constantly explore. I greatly enjoy working in a team, as I strongly believe in collaboration and sharing ideas to achieve outstanding results. My experience is focused on programming in Golang
 
 
 <!--
