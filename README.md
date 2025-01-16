@@ -1,5 +1,4 @@
-My curiosity that drives me to constantly explore. I greatly enjoy working in a team, as I strongly believe in collaboration and sharing ideas to achieve outstanding results. My experience is focused on programming in Golang
-
+Software Engineer with extensive experience in Golang, Docker, and PostgreSQL. Proven track record of implementing over 30 functionalities and optimizing backend-database integrations at The Home Depot (via NTTDATA). Skilled in upgrading technologies, such as transitioning Node.js from version 14 to 18 to enhance security at Brightcove. Adept at migrating services from Groovy to Golang and developing robust reporting modules at Mercado Libre. Experienced in building mobile applications using React Native for startups, with a strong focus on delivering scalable and efficient solutions.
 
 <!--
 **LuisGerardoDC/LuisGerardoDC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
